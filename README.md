@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student at VIT Amaravati who loves building i
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saptha%20Sri%20Vardhan%20Kanda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vardhankanda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vardhankanda13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VARDHANKANDA)
 
@@ -171,22 +171,3 @@ I'm a Computer Science Engineering student at VIT Amaravati who loves building i
 
 </div>
 
----
-
-## 📌 Pinned Projects
-
-### [ShadowNotes](https://github.com/VARDHANKANDA/ShadowNotes)
-A privacy-preserving offline personal knowledge base with local LLMs. Features semantic search, RAG implementation, and complete data sovereignty.
-
----
-
-<div align="center">
-
-### 💡 "The best way to learn is by building, experimenting, and sharing."
-
-</div>
-
----
-[![](https://komarev.com/ghpvc/?username=VARDHANKANDA&icon=7&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
