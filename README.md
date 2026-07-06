@@ -1,5 +1,17 @@
-# 💫 About Me:
-## 👋 About Me<br><br><br><br>Hi, I'm **Kanda Saptha Sri Vardhan** 👨‍💻<br><br><br><br>I'm a Computer Science Engineering student at **VIT Amaravati** with a specialization in **Artificial Intelligence & Machine Learning**. I enjoy building intelligent applications, solving real-world problems through data, and continuously improving my software development skills. :contentReference[oaicite:0]{index=0}<br><br><br><br>### 🚀 What I'm Working On<br><br>- 🤖 Machine Learning & Deep Learning projects<br><br>- 🧠 AI-powered applications<br><br>- 💻 Data Structures & Algorithms<br><br>- 🌐 Full-Stack Web Development<br><br>- ☁️ Exploring Large Language Models (LLMs)<br><br><br><br>### 🛠️ Tech Stack<br><br>- **Languages:** Python, Java, C, C++<br><br>- **ML & Data:** TensorFlow, Pandas, NumPy, Matplotlib<br><br>- **Database:** MySQL<br><br>- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab :contentReference[oaicite:1]{index=1}<br><br><br><br><br><br><br><br>### 🎯 Goal<br><br>To build impactful AI solutions that solve real-world challenges while growing as a software engineer and machine learning practitioner.<br><br><br><br>📫 **Let's connect and build something amazing together!**
+👋 Hey, I'm Kanda Saptha Sri Vardhan
+
+🚀 AI & Machine Learning Enthusiast | 💻 Software Developer | 📚 Lifelong Learner
+
+I'm a Computer Science Engineering student at VIT Amaravati who loves building intelligent applications and solving real-world problems through code. Whether it's training machine learning models, developing web applications, or exploring the latest in AI, I'm always excited to create something meaningful.
+
+💡 I believe the best way to learn is by building, experimenting, and sharing. Every project teaches me something new, and every challenge is an opportunity to grow.
+
+✨ A few things about me
+🤖 Passionate about Artificial Intelligence & Machine Learning
+🧩 Love solving challenging programming problems
+🌱 Always exploring new technologies and frameworks
+⚡ Turning ideas into impactful projects
+🎯 Committed to continuous learning and self-improvement
 
 
 ## 🌐 Socials:
