@@ -53,27 +53,6 @@ Computer Science Engineering student at VIT Amaravati with a strong focus on Art
 
 ---
 
-## 📂 Featured Projects
-
-### 🔍 ShadowNotes - Privacy-Preserving Offline Knowledge Base
-A RAG-based application enabling semantic search and Q&A on personal documents using local AI models, ensuring complete data privacy.
-
-| Aspect | Details |
-|--------|---------|
-| **Tech Stack** | Python, Streamlit, FAISS, Sentence-Transformers, Ollama, TinyLlama |
-| **Architecture** | Local inference, offline-first design |
-| **Key Feature** | Zero data leaves user device |
-
-### 🤖 AI Resume Analyzer - Intelligent Career Platform
-A full-stack application that analyzes resumes against job descriptions, identifies skill gaps, and generates personalized recommendations.
-
-| Aspect | Details |
-|--------|---------|
-| **Tech Stack** | React, FastAPI, PostgreSQL, Docker, OpenAI API, Ollama |
-| **Capabilities** | ATS scoring, JD matching, resume optimization |
-| **Impact** | 85% improvement in resume-job description alignment |
-
----
 
 ## 💼 Experience & Contributions
 
@@ -86,15 +65,6 @@ A full-stack application that analyzes resumes against job descriptions, identif
 
 ---
 
-## 🏅 Achievements
-
-| Achievement | Year |
-|-------------|------|
-| Academic Excellence (CGPA: 8.81) | 2023-Present |
-| Developed ShadowNotes - Privacy-Preserving Knowledge Base | 2025 |
-| Built AI Resume Analyzer Platform | 2025 |
-
----
 
 ## 🌐 Professional Presence
 
